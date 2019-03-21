@@ -1,9 +1,12 @@
-À±Èñ¿µ °³ÀÎ ÇÁ·ÎÁ§Æ® ¼Ò½º ÆÄÀÏµéÀÔ´Ï´Ù.
+ìœ¤í¬ì˜ ê°œì¸ í”„ë¡œì íŠ¸ ì†ŒìŠ¤ íŒŒì¼ë“¤ìž…ë‹ˆë‹¤.
 
-ÇÁ·ÎÁ§Æ®¸í : PHONE_REV (¸ð¹ÙÀÏ µð¹ÙÀÌ½º »ç¿ëÀÚ ¸ðÀÓ)
-Âü¿©ÀÎ¿ø	: 1¸í
-±â°£ : 2019.03.06 ~ 2019.03.15
-°³¹ßÈ¯°æ:	OS	Windows 7 Professional K
+í”„ë¡œì íŠ¸ëª… : PHONE_REV (ëª¨ë°”ì¼ ë””ë°”ì´ìŠ¤ ì‚¬ìš©ìž ëª¨ìž„)
+
+ì°¸ì—¬ì¸ì›	: 1ëª…
+
+ê¸°ê°„ : 2019.03.06 ~ 2019.03.15
+
+ê°œë°œí™˜ê²½:	OS	Windows 7 Professional K
 	WAS	Apache Tomcat 8.5
 	DBMS	Oracle 11g Express Edition
 	Language	Java Platform 8 , JSP & Servlet
@@ -13,6 +16,6 @@
 eXERD (E-R Modeling Tool), Start UML
 	Open Source	jQuery v3.2.1, jQuery UI v.1.12.1, cos-26Dec2008, jakarta-taglibs-standard-1.1.2
 
-- º» »çÀÌÆ®´Â ÈÞ´ëÆù, ÅÂºí¸´PC¿Í °°Àº ±â±âÀÇ ¸®ºä À§ÁÖÀÇ »çÀÌÆ®ÀÔ´Ï´Ù
-- ÀÌ¿ëÀÚ°¡ 5Àå±îÁöÀÇ »çÁøÃ·ºÎ¸¦ ÇÏ°í ´ñ±ÛÀ» ÀÛ¼ºÇÒ ¼ö ÀÖ´Â ¸®ºä °Ô½ÃÆÇ°ú Áú¹®°ú ´ä±ÛÀ» ÀÛ¼ºÇÒ ¼ö ÀÖ´Â Q & A °Ô½ÃÆÇ, °ü¸®ÀÚ°¡ °øÁö»çÇ×À» ¿Ã¸± ¼ö ÀÖ´Â °øÁö°Ô½ÃÆÇÀ» ÅëÇÕÇÑ Ä¿¹Â´ÏÆ¼ ½Ã½ºÅÛÀÔ´Ï´Ù
+- ë³¸ ì‚¬ì´íŠ¸ëŠ” íœ´ëŒ€í°, íƒœë¸”ë¦¿PCì™€ ê°™ì€ ê¸°ê¸°ì˜ ë¦¬ë·° ìœ„ì£¼ì˜ ì‚¬ì´íŠ¸ìž…ë‹ˆë‹¤
+- ì´ìš©ìžê°€ 5ìž¥ê¹Œì§€ì˜ ì‚¬ì§„ì²¨ë¶€ë¥¼ í•˜ê³  ëŒ“ê¸€ì„ ìž‘ì„±í•  ìˆ˜ ìžˆëŠ” ë¦¬ë·° ê²Œì‹œíŒê³¼ ì§ˆë¬¸ê³¼ ë‹µê¸€ì„ ìž‘ì„±í•  ìˆ˜ ìžˆëŠ” Q & A ê²Œì‹œíŒ, ê´€ë¦¬ìžê°€ ê³µì§€ì‚¬í•­ì„ ì˜¬ë¦´ ìˆ˜ ìžˆëŠ” ê³µì§€ê²Œì‹œíŒì„ í†µí•©í•œ ì»¤ë®¤ë‹ˆí‹° ì‹œìŠ¤í…œìž…ë‹ˆë‹¤
 
