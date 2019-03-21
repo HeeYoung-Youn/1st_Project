@@ -1,0 +1,166 @@
+@charset "UTF-8";
+#content #memberList_content{
+	margin:30px auto;
+}
+
+#content #memberList_content .row_group{
+	margin:20px auto;
+}
+
+#content #memberList_content #memberList_caption{
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	
+}
+
+#content #memberList_content #memberList_caption a{
+	color:#222222;
+	text-decoration:none;
+}
+
+#content #memberList_content #memberList_caption a span{
+	color:gray;
+	font-weight:bold;
+}
+
+#content #memberList_content #memberList_search{
+	height:50px;
+	margin:0 auto;
+}
+
+#content #memberList_content #memberList_search input{
+	vertical-align: middle;
+}
+
+#content #memberList_content #memberList_search input[type="text"]{
+	height:27px;
+	width:150px;
+	padding:4px 7px;
+	font-size:1em;
+	border:1px solid #dddddd;
+	margin:0 0 0 950px;
+}
+
+#content #memberList_content #memberList_search input[type="submit"]{
+	height:37px;
+	width:50px;
+	margin:-6px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #memberList_content .memberInfo_table{
+	border-top : 1px solid #dddddd;
+	font-size:0.8em;
+	margin:0 auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#content #memberList_content #memberList_table tr td{
+	border-bottom:1px solid #dddddd;
+	width:100px;
+}
+
+#content #memberList_content #memberList_table tr .subject{
+	height:35px;
+	text-align: center;
+}
+
+#content #memberList_content #memberList_table tr #id{
+	width:150px;
+}
+
+#content #memberList_content #memberList_table tr #name{
+	width:200px;
+}
+
+#content #memberList_content #memberList_table tr #birth{
+	width:150px;
+}
+
+#content #memberList_content #memberList_table tr #mail{
+	width:250px;
+}
+
+#content #memberList_content #memberList_table tr #grade{
+	width:200px;
+}
+
+#content #memberList_content #memberList_table tr #quit{
+	width:100px;
+}
+
+#content #memberList_content #memberList_table tr #downgrade{
+	width:150px;
+}
+
+input[type="checkbox"]{
+	display:none;
+}
+
+input[type="checkbox"] + label{
+	display:inline-block;
+	width:20px;
+	height:20px;
+	border: 2px solid #bcbcbc;
+	vertical-align:middle;
+	cursor: pointer;
+	margin:0 0 0 60px;
+}
+
+input[type="checkbox"]:checked + label{
+	background-color: #666666;
+}
+
+#content #memberList_content #memberList_table tr .member_info{
+	height:45px;
+	text-align:center;
+}
+
+#content #memberList_content #memberList_downGrade{
+	width:1200px;
+	overflow:hidden;
+}
+
+#content #memberList_content #memberList_downGrade input[type="submit"]{
+	float:right;
+	margin-right:30px;
+	height:37px;
+	width:100px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #memberList_content #memberList_downGrade input[type="button"]{
+	float:right;
+	margin-right:10px;
+	height:37px;
+	width:100px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #memberList_content .paging{
+	margin:50px auto;
+	text-align:center;
+	font-size:0.8em;
+}
+
+#content #memberList_content .paging a{
+	color:black;
+	text-decoration:none;
+}

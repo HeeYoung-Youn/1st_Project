@@ -1,0 +1,148 @@
+@charset "UTF-8";
+#content #noticeList_content{
+	margin:30px auto;
+}
+
+#content #noticeList_content .row_group{
+	margin:20px auto;
+}
+
+#content #noticeList_content #noticeList_caption{
+	height:50px;
+	text-align:center;
+	line-height:50px;
+	
+}
+
+#content #noticeList_content #noticeList_caption a{
+	color:#222222;
+	text-decoration:none;
+}
+
+#content #noticeList_content #noticeList_caption a span{
+	color:gray;
+	font-weight:bold;
+}
+
+#content #noticeList_content #noticeList_search{
+	height:50px;
+	margin:0 auto;
+}
+
+#content #noticeList_content #noticeList_search form{
+	height:37px;
+}
+
+#content #noticeList_content #noticeList_search input{
+	vertical-align: middle;
+}
+
+#content #noticeList_content #noticeList_search #searchnTitle{
+	height:27px;
+	width:150px;
+	padding:4px 7px;
+	font-size:1em;
+	border:1px solid #dddddd;
+	margin:0 0 0 950px;
+}
+
+#content #noticeList_content #noticeList_search input[type="submit"]{
+	height:37px;
+	width:50px;
+	margin:-6px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #noticeList_content .noticeInfo_table{
+	border-top : 1px solid #dddddd;
+	font-size:0.8em;
+	margin:0 auto;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+#content #noticeList_content #noticeList_table tr td{
+	border-bottom:1px solid #dddddd;
+	width:100px;
+}
+
+#content #noticeList_content #noticeList_table tr .subject{
+	height:35px;
+	text-align: center;
+}
+
+#content #noticeList_content #noticeList_table tr #no{
+	width:100px;
+}
+
+#content #noticeList_content #noticeList_table tr #title{
+	width:550px;
+}
+
+#content #noticeList_content #noticeList_table tr #name{
+	width:100px;
+}
+
+#content #noticeList_content #noticeList_table tr #date{
+	width:250px;
+}
+
+#content #noticeList_content #noticeList_table tr #hits{
+	width:150px;
+}
+
+#content #noticeList_content #noticeList_table tr .notice_info{
+	height:45px;
+	text-align:center;
+}
+
+#content #noticeList_content #noticeList_table tr #info_title{
+	overflow:hidden;
+	text-align:left;
+}
+
+#content #noticeList_content #noticeList_table tr #info_title div{
+	float:left;
+}
+
+#content #noticeList_content #noticeList_table tr #info_title .nTitle{
+	float:left;
+	line-height:35px;
+}
+
+#content #noticeList_content #noticeList_table tr #info_title a{
+	text-decoration:none;
+	color:black;
+}
+
+#content #noticeList_content #noticeList_table tr #info_title a:hover{
+	text-decoration:underline;
+}
+
+#content #noticeList_content #write_notice_btn input[type="button"]{
+	height:37px;
+	width:100px;
+	margin:0 0 0 1066px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:1px solid #3f4046;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #noticeList_content .paging{
+	margin:50px auto;
+	text-align:center;
+	font-size:0.8em;
+}
+
+#content #noticeList_content .paging a{
+	color:black;
+	text-decoration:none;
+}

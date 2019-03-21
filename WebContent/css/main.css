@@ -1,0 +1,83 @@
+@charset "UTF-8";
+ul, ol, li{
+	margin: 0;
+	padding:0;
+	list-style:none;
+}
+
+.flexslider{
+	position:relative;
+	width:1200px;
+	text-align:center;
+	z-index:-5000;
+}
+
+.flex-viewport .slides li{
+	width:1200px;
+}
+
+.flex-control-paging{
+	display:none;
+}
+
+.flex-control-paging:after{
+	display:block;
+	content : '';
+	clear: both;
+}
+
+.flex-control-paging li{
+	float: left;
+	display:inline-block;
+}
+
+.flex-control-paging a{
+	display: inline-block;
+	margin:0 3px;
+	width:10px;
+	height:10px;
+	border-radius: 50%;
+	background-color: #black;
+	font-size : 0;
+	line-height : 0;
+}
+
+.flex-control-paging a.flex-active{
+	background-color:#222222;
+}
+
+.flex-direction-nav li{
+	position: absolute;
+	top: 69px;
+}
+
+.flex-direction-nav li a{
+	text-decoration:none;
+	font-size:43px;
+	font-weight: bold;
+	color: #000;
+}
+
+.flex-direction-nav li .flex-nav-prev{
+	left:15px;
+}
+
+.flex-direction-nav li .flex-nav-next{
+	right:15px;
+}
+
+ #slider, #section2 {
+    margin:10px auto;
+    overflow: hidden;
+}
+#mslider{
+    width:1200px;
+    height:400px;
+    float:left;
+    margin-right:10px;
+}
+
+#section2 table tr td a img{
+    margin:3px;
+    border:1px solid lightgray;
+}

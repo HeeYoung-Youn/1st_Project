@@ -1,0 +1,80 @@
+@charset "UTF-8";
+#content #qnaContent{
+	width: 1200px;
+	margin:0 auto;
+	border-bottom: 1px solid #dddddd;
+	overflow:hidden;
+}
+
+#content #qnaContent #qnaContent_caption{
+	height:100px;
+	width:1200px;
+	text-align:center;
+	line-height:100px;
+	margin: 0 auto;
+	color:#222222;
+	text-decoration:none;
+	line-height:90px;
+	border-bottom: 1px solid #dddddd;
+}
+
+#content #qnaContent #qnaContent_caption a{
+	text-decoration: none;
+	color:#222222;
+}
+
+#content #qnaContent #qnaContent_caption span{
+	color:gray;
+	font-weight:bold;
+}
+
+#content #qnaContent #qnaContent_qnaInfo{
+	border-bottom: 1px solid #dddddd;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content #qnaContent #qnaContent_qnaInfo #qnaContent_title {
+	text-align:center;
+	margin:0 auto 20px;
+}
+
+#content #qnaContent #qnaContent_qnaInfo #qnaContent_others{
+	margin:0 auto;
+	width:1000px;
+	font-size:.8em;
+	color:#555555;
+}
+
+#content #qnaContent #qnaContent_qnaInfo #qnaContent_others table tr .first_td{
+	width:870px;
+}
+
+#content #qnaContent #qnaContent_content{
+	margin:5px auto 15px;
+	width:921px;
+	
+}
+
+#content #qnaContent #qnaContent_content pre{
+	font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-size:0.9em;
+}
+
+#content #qnaContent #btn_area{
+	margin-right:130px;
+	height:60px;
+	float:right;
+}
+
+#content #qnaContent #btn_area button{
+	height:37px;
+	width:50px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}

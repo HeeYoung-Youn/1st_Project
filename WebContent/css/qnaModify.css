@@ -1,0 +1,75 @@
+@charset "UTF-8";
+#content #modifyQnA_content{
+	width: 1200px;
+	margin:0 auto;
+}
+
+#content #modifyQnA_content #modifyQnA_caption{
+	height:100px;
+	width:1200px;
+	text-align:center;
+	line-height:100px;
+	margin: 0 auto;
+	color:#222222;
+	text-decoration:none;
+	line-height:90px;
+	border-bottom: 1px solid #dddddd;
+}
+
+#content #modifyQnA_content #modifyQnA_caption a{
+	text-decoration: none;
+	color:#222222;
+}
+
+#content #modifyQnA_content #modifyQnA_caption span{
+	color:gray;
+	font-weight:bold;
+}
+
+#content #modifyQnA_content .row_group table{
+	margin:20px auto;
+	height:420px;
+}
+
+#content #modifyQnA_content .row_group table tr .modifyQnA_title{
+	width:80px;
+	text-align:center;
+	font-size: 0.8em;	
+}
+
+#content #modifyQnA_content .row_group table tr td input{
+	width:196px;
+	height:20px;
+	border:1px solid #dddddd;
+	margin:8px 0;
+	padding:0 4px;
+}
+
+#content #modifyQnA_content .row_group table tr td #qna_email{
+	width:487px;
+}
+
+#content #modifyQnA_content .row_group table tr td #qna_title{
+	width:487px;
+}
+
+#content #modifyQnA_content .row_group table tr td #qna_content{
+	width:487px;
+	height:204px;
+	border:1px solid #dddddd;
+	margin:8px 0;
+	padding:4px;
+	font-size: 0.85em;
+	font-family: 고딕;
+}
+
+#content #modifyQnA_content .row_group table tr #btn_area input{
+	width:60px;
+	height:30px;
+	float: right;
+	margin-left:5px;
+	background-color:#3f4046;
+	border:#3f4046;
+	color:white;
+	cursor: pointer;
+}

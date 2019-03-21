@@ -1,0 +1,253 @@
+@charset "UTF-8";
+#content #reviewContent{
+	width: 1200px;
+	margin:0 auto;
+	border-bottom: 1px solid #dddddd;
+	overflow:hidden;
+}
+
+#content #reviewContent #reviewContent_caption{
+	height:100px;
+	width:1200px;
+	text-align:center;
+	line-height:100px;
+	margin: 0 auto;
+	color:#222222;
+	text-decoration:none;
+	line-height:90px;
+	border-bottom: 1px solid #dddddd;
+}
+
+#content #reviewContent #reviewContent_caption a{
+	text-decoration: none;
+	color:#222222;
+}
+
+#content #reviewContent #reviewContent_caption span{
+	color:gray;
+	font-weight:bold;
+}
+
+#content #reviewContent #reviewContent_reviewInfo{
+	border-bottom: 1px solid #dddddd;
+	padding-top: 20px;
+	padding-bottom: 20px;
+}
+
+#content #reviewContent #reviewContent_reviewInfo #reviewContent_title {
+	text-align:center;
+	margin:0 auto 20px;
+}
+
+#content #reviewContent #reviewContent_reviewInfo #reviewContent_others{
+	margin:0 auto;
+	width:1000px;
+	font-size:.8em;
+	color:#555555;
+}
+
+#content #reviewContent #reviewContent_reviewInfo #reviewContent_others table tr .first_td{
+	width:870px;
+}
+
+#content #reviewContent #reviewContent_file{
+	margin:0 auto;
+	width:950px;
+}
+
+#content #reviewContent #reviewContent_file .reviewImg{
+	margin:0 auto;
+	width:921px;
+}
+
+#content #reviewContent #reviewContent_file img{
+	margin:20px auto 0;
+	width:921px;
+}
+
+#content #reviewContent #reviewContent_content{
+	margin:5px auto 15px;
+	width:921px;
+	
+}
+
+#content #reviewContent #reviewContent_content pre{
+	font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-size:0.9em;
+}
+
+#content #reviewContent #reviewContent_like{
+	margin:20px auto;
+	padding:10px;
+	width:50px;
+	text-align:center;
+	cursor: pointer;
+}
+
+#content #reviewContent #reviewContent_like #like{
+	color:#1a1818;
+	font-weight: bold;
+	font-size:1.2em;
+}
+
+#content #reviewContent #reviewContent_like #like img{
+	width:40px;
+}
+
+#content #reviewContent #btn_area{
+	margin-right:130px;
+	height:60px;
+	float:right;
+}
+
+#content #reviewContent #btn_area button{
+	height:37px;
+	width:50px;
+	line-height:37px;
+	background-color:#3f4046;
+	border:none;
+	color:white;
+	font-weight:bold;
+	cursor:pointer
+}
+
+#content #comment{
+	margin:0 auto;
+		font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-size:0.9em;
+}
+
+#content #comment #comment_content{
+	margin:0 auto;
+	width: 942px;
+	overflow:hidden;
+	border-bottom: 1px solid #dddddd;
+	padding:20px;
+}
+
+#content #comment #comment_content > div{
+	float: left;
+}
+
+#content #comment #comment_content .commentList_indent{
+	margin-right:5px;
+	margin-left:5px;
+}
+
+#content #comment #comment_content .commentList_indent .commentList_arrow{
+	margin-top: 5px;
+}
+
+#content #comment #comment_content .commentList_info{
+	margin-right:5px;
+	width:150px;
+}
+
+#content #comment #comment_content .commentList_info .cIp{
+	font-size:.8em;
+	color:#555555;
+}
+
+#content #comment #comment_content .commentList_content{
+	margin-left: 10px;
+	width:640px;
+}
+
+#content #comment #comment_content .commentList_content span{
+	display:block;
+	font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-weight:bold;
+	font-size:0.9em;
+}
+
+#content #comment #comment_content .write_comment_comment_btn{
+	display:block;
+	margin-top:25px;
+	float:right;
+	font-size:.8em;
+	color:#555555;
+	cursor: pointer;
+}
+
+#content .write_comment_comment{
+	margin:5px auto;
+	width:982px;
+	height:125px;
+}
+#content .write_comment_comment #write_area div{
+	float:left;
+}
+
+#content .write_comment_comment #write_area div textarea{
+	padding:5px 7px;
+	margin:15px;
+	width:850px;
+	height:88px;
+	border:1px solid #dddddd;
+	font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-size:0.9em;
+	line-height:22px;
+}
+
+#content .write_comment_comment #write_area .insert_comment_comment_btn{
+	height:100px;
+	width:65px;
+	margin-top:15px;
+	background-color: white;
+	border:1px solid #dddddd;
+	cursor: pointer;
+	color:#1a1818;
+}
+
+#content #comment_find_btn{
+	border-bottom:1px solid #dddddd;
+	margin:0 auto;
+	height:45px;
+	width:982px;
+	cursor: pointer;
+	text-align: center;
+}
+
+#content #comment_find_btn #comment_find{
+	margin: 0 auto;
+	width:200px;
+}
+
+#content #comment_find_btn #comment_find #search_text{
+	line-height:45px;
+}
+
+#content #write_comment{
+	margin:5px auto;
+	width:982px;
+	height:125px;
+}
+#content #write_comment #write_area div{
+	float:left;
+}
+
+#content #write_comment #write_area div textarea{
+	padding:5px 7px;
+	margin:15px;
+	width:850px;
+	height:88px;
+	border:1px solid #dddddd;
+	font-family: 'NanumGothic', 'serif';
+	color:#1a1818;
+	font-size:0.9em;
+	line-height:22px;
+}
+
+#content #write_comment #write_area input{
+	height:100px;
+	width:65px;
+	margin-top:15px;
+	background-color: white;
+	border:1px solid #dddddd;
+	cursor: pointer;
+	color:#1a1818;
+}
